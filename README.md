@@ -1,7 +1,7 @@
 ---
-website: "Plataforma Wiretrust - Canal de Denúncias de diversos Municípios"          # Entre as aspas escreve o nome do website
+website: "Plataforma Wiretrust - Canal de Denúncias de diversos Municípios (template)"          # Entre as aspas escreve o nome do website
 date: "22/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
+uri: "https://arte-selos.wiretrust.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://dominio_sitio_web.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
